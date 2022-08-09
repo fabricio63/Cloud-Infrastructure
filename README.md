@@ -20,3 +20,5 @@
 
 # Resultado
 El resultado deberia ser el mismo en ambos casos y se puede ver en la siguiente imagen  
+
+https://github.com/fabricio63/Cloud-Infrastructure/blob/main/resultado.png
